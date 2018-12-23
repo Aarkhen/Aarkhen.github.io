@@ -1,0 +1,70 @@
+body{
+  background-color:black;
+  color: white;
+}
+
+.brand{
+  text-align: center;
+  font-size: 54px;
+}
+
+#title{
+  text-align: center;
+  font-size: 54px;
+}
+
+#logo{
+  border: 0;
+}
+
+.container{
+  padding-top: 2.5%;
+}
+
+h1{
+  text-align: center;
+  font-size: 34px;
+}
+
+p{
+  padding-left: 40px;
+  text-align: left;
+  font-size: 24px;
+}
+
+.generalImages{
+  display: block;
+  border: 0;
+  float: left;
+  max-width: 100%;
+  max-height: auto;
+}
+
+.list{
+  padding-left: 40px;
+  text-align: left;
+  font-size: 24px;
+}
+
+h2{
+  padding-top: 5%;
+  text-align: center;
+}
+
+.galleryPic{
+  border: 0;
+  float: left;
+  padding-top: 20px;
+  max-width: 100%;
+  max-height: auto;
+}
+
+.right{
+  float: right;
+}
+
+.footer{
+  padding-top: 20px;
+  text-align: center;
+  height: 20%;
+}
